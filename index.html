@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traffic Light</title>
+    <style>
+        html {
+            background-color: aliceblue;
+        }
+        body {
+            background-color: aquamarine;
+            margin: 30px auto;
+            width: 50svw;
+            height: 50svh;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+        }
+        body>div {
+            width: max-content;
+            height: max-content;
+            border-radius: 10px;
+            background-color: black;
+            padding: 10px;
+            margin: auto;
+        }
+        body>div>div {
+            width: 60px;
+            margin: 5px;
+            height: 60px;
+            border-radius: 30px;
+        }
+        .red {
+            background-color: red;
+        }
+        .yellow {
+            background-color: yellow;
+        }
+        .green {
+            background-color: green;
+        }
+        .gray {
+            background-color: gray;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div class="red"></div>
+        <div class="gray"></div>
+        <div class="gray"></div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

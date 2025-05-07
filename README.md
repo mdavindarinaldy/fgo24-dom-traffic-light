@@ -18,7 +18,7 @@ git clone https://github.com/mdavindarinaldy/fgo24-dom-basic.git
 This project don't have any dependencies
 
 ## Resource Reference
-Referensi Gambar yang digunakan:
+Image References:
 ```
 https://hosnews.id/gambar-pemandangan-gunung/
 https://i0.wp.com/dianisa.com/wp-content/uploads/2022/10/6-Gambar-pemandangan-gunung-dan-jalan-raya.jpg?ssl=1

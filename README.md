@@ -10,7 +10,7 @@ This project is for training only. This project implement basic DOM to manipulat
 
 1. Clone this project
 ```
-git clone https://github.com/mdavindarinaldy/fgo24-dom-basic.git
+git clone https://github.com/mdavindarinaldy/fgo24-dom-traffic-light.git
 ``` 
 2. Run the project
 

@@ -14,18 +14,20 @@ async function yellowOn() {
 async function greenOn() {
     await setInterval(()=> {
         if(light2.classList=='yellow') {
-        light2.classList.replace('yellow','gray')
-        light3.classList.replace('gray','green') }
+            light2.classList.replace('yellow','gray')
+            light3.classList.replace('gray','green') 
+        }
     }, 2000)
 }
 
 async function redOn() {
     await setInterval(()=> {
         if(light3.classList=='green') {
-        light3.classList.replace('green','gray')
-        light1.classList.replace('gray','red') }
+            light3.classList.replace('green','gray')
+            light1.classList.replace('gray','red') 
+        }
     }, 3000)
 }
 
-yellowOn().then(()=>greenOn()).then(()=>redOn());
+yellowOn().then(()=>{greenOn()}).then(()=>redOn());
 

@@ -17,5 +17,11 @@ git clone https://github.com/mdavindarinaldy/fgo24-dom-basic.git
 ## Dependencies
 This project don't have any dependencies
 
+## Resource Reference
+Referensi Gambar yang digunakan:
+```
+https://i0.wp.com/dianisa.com/wp-content/uploads/2022/10/6-Gambar-pemandangan-gunung-dan-jalan-raya.jpg?ssl=1
+```
+
 ## Basic Information
 This project is part of training in Kodacademy Bootcamp Batch 24 made by Muhammad Davinda Rinaldy
